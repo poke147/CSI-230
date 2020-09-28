@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "GIT is awasome"
-ehco $(whoami) is logged into $(hostname)
+echo $(whoami) is logged into $(hostname)
